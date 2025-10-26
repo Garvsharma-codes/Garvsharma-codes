@@ -5,13 +5,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/garv-sharma-0769331aa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="YOUR-LINKEDIN-USERNAME" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/garv-sharma-0769331aa/" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Hacktoberfest 2025:</h3>
-(https://holopin.io/@garvsharmacodes)
+<p align="left">
+  <a href="https://holopin.io/@garvsharmacodes" target="_blank">
+    <img src="https://holopin.me/@garvsharmacodes" alt="Holopin Badges" />
+  </a>
+</p>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
