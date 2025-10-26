@@ -44,6 +44,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Garvsharma-codes&show_icons=true&theme=dark&locale=en" alt="garvsharma-codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Garvsharma-codes&show_icons=true&theme=dark&locale=en&hide=html,css" alt="GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvsharma-codes&layout=compact&theme=dark&locale=en&hide=html,css" alt="Top Languages" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Garvsharma-codes&theme=dark" alt="GitHub Streak" />
 </p>
 
