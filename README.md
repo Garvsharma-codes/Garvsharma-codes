@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/garv-sharma-0769331aa/" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30" />
+<a href="https://www.linkedin.com/in/garv-sharma-0769331aa/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
 </a>
 </p>
 
@@ -45,7 +45,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Garvsharma-codes&show_icons=true&theme=dark&locale=en" alt="garvsharma-codes" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvsharma-codes&layout=compact&theme=dark&locale=en" alt="garvsharma-codes" />
 </p>
 
